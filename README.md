@@ -1,2 +1,2 @@
-# CostSort
-Sorts a string of numbers and coverts to a sorted list
+# ListSort
+Sorts a string into alphabetical order and puts to the clipboard 
